@@ -1,19 +1,7 @@
-# Multi-Modal Retail Assistant
+# Multimodal Retail Search
 
-Search products using images and natural language together.
+Product search that understands images and language together (CLIP-style), so users can find items with a photo, a phrase, or both.
 
-## Problem
+Bridges CV and NLP for a real shopping task — discovery, not just classification demos.
 
-Shoppers often describe what they want in words *and* visuals. Text-only search misses that.
-
-## Approach
-
-Combine computer vision (for example CLIP-style embeddings) with NLP so users can search by photo, text, or both.
-
-## Stack
-
-Python · computer vision · NLP · multimodal embeddings
-
-## Goal
-
-Faster, more intuitive product discovery.
+**Skills:** multimodal ML · computer vision · NLP · Python
